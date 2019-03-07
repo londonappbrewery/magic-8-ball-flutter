@@ -1,16 +1,20 @@
-# magic_8_ball
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-A new Flutter application.
 
-## Getting Started
+# Magic 8 Ball 🎱
 
-This project is a starting point for a Flutter application.
+## Our Goal
 
-A few resources to get you started if this is your first Flutter project:
+The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## What you will create
+
+We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
